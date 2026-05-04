@@ -1,3 +1,3 @@
 # Code-generator
 
-# Programe creates 12-digut code 
+# Programe creates 12-digit code 
